@@ -25,7 +25,7 @@ class SMTPController extends Controller
         $a->CharSet = "utf-8";
         $a->SMTPAuth = true;
         $a->SMTPSecure="tls";
-        $a->Host = "smtp.gmaill.com";
+        $a->Host = "smtp.gmail.com";
         $a->Port = 587;
         $a->Username="rizda25.9c@gmail.com";
         $a->Password="1ncorrect";

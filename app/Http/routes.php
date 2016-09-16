@@ -34,4 +34,4 @@ Route::post('ajax/send', function()
 });
 
 Route::get('email','SMTPController@email');
-Route::post('email', 'SMTPController@send_mail');
+Route::post('sendemail', 'SMTPController@send_mail');

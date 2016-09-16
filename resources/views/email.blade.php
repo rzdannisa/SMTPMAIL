@@ -23,7 +23,7 @@
       </head>
 
     <div class="row">
-    <form action="{{url('email')}}" method="post" class="col s12">
+    <form action="{{url('sendemail')}}" method="post" class="col s12">
     {!! csrf_field() !!}
       <div class="row">
         <div class="row">
