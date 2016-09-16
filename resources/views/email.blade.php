@@ -8,7 +8,7 @@
     <div class="nav-wrapper">
       <a href="#" class="brand-logo right">rzd</a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
-        <li><a href="sass.html">Send your email</a></li>
+        <li><a href="#">Send your email</a></li>
       </ul>
     </div>
     <title>SEND EMAIL</title>
